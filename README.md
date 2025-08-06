@@ -7,9 +7,9 @@ Curso Completo de HTML Realizado por Danny Jimenez
 Glosario del Curso de HTML
 #__________________________________________________#
 
-✅ 1. Estructura Basica = LISTO
-✅ 2. Estructura General = LISTO 
-✅ 3. Elementos = LISTO 
+✅ 1. Estructura Basica = LISTO                                                                                                                                             
+✅ 2. Estructura General = LISTO                                                                                                                                                         
+✅ 3. Elementos = LISTO                                                                                            
 ✅ 4. Metadatos = LISTO 
 ✅ 5. Secciones = LISTO 
 ✅ 6. Contenido = LISTO 
