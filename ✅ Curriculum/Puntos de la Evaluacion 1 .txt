@@ -1,0 +1,17 @@
+_____________________________________________________________________
+
+EVALUACION 1 PROGRAMACION II CURRICULUM VITAE
+
+REALIZAR UN CURRICULUM CON HTML Y ENVIAR POR CORREO AL PROFESOR
+______________________________________________________________________
+
+1.  Estructura HTML
+2.  Etiquetas
+3.  Etiquetas con Atributos
+4.  Imagenes
+5.  Hiperenlances
+6.  Tablas
+7.  Listas
+8.  Formulario
+
+_______________________________________________________________________

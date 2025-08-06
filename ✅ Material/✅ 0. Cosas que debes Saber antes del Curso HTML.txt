@@ -1,0 +1,71 @@
+
+
+✅ Que debemos saber 
+_______________________________
+
+1.  Que es Internet      = ✅
+2.  Que es WWW           = ✅
+2.  Que es HTTP y HTTPS  = ✅
+3.  Que son Navegadores  = ✅
+4.  Que es DNS           = ✅
+5.  Domain Name          = ✅
+6.  Hosting              = ✅ 
+
+✅ Fundamentos
+_______________________________
+
+7.  Algoritmo           = ✅  
+8.  Lenguaje C          = ✅
+9.  Bash                = ✅
+10. GitHub              = ✅
+
+✅ Basico 
+_________________________________
+
+11. HTML                 =
+12. CSS                  =           
+13. Javascript           =
+14. PHP                  =
+15. Python               =
+16. JAVA                 =
+
+✅ Frameworks Frontend
+_________________________________
+
+17. Bootstrap (CSS)      =
+18. React (Javascript)   =
+19. Angular(Javascript)  =
+20. Vue (Javascript)     =
+
+
+
+✅ Frameworks Backend
+________________________________
+
+21.  Laravel (PHP)        = 
+22.  Django (Python)      = 
+23.  Javascript (NodeJS)  =
+24.  JAVA (Spring)        =
+25.  C# (NET)             =
+26.  GO (GIN)             =
+27.  Mysql                =
+28.  PostgreSQL           =
+29.  SQL Server           =
+30.  SQLite               =
+
+
+
+✅ Api's
+___________________________________
+
+31. REST                 =
+32. JSON APIs            =
+33. gRPC                 =
+34. GraphQL              =
+
+
+___________________________________________________________________________________________
+
+
+
+
