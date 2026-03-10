@@ -1,4 +1,13 @@
-<h1 align="center">Danny Jimenez Ingeniero en Informática</h1>
+<div align="center">
+  
+<h1 align="center"> DANNY JOSÉ JIMÉNEZ GUTIÉRREZ  </h1>
+🖥️_ INGENIERO EN INFORMÁTICA _💻
+
+[![📞 0424-281-44-55](https://img.shields.io/badge/Phone-0424--281--44--55-0078D4?style=for-the-badge&logo=phone&logoColor=white)](tel:04242814455)
+[![✉️ dennaly88@gmail.com](https://img.shields.io/badge/Email-dennály88@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennaly88@gmail.com)
+
+</div>
+
 
 
 <div align="center">
@@ -19,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="60" alt="trello logo"  />
 </div>
 
+###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -30,19 +40,15 @@
 </div>
 
 
-<hr>
+_____________________________________________________________________________________________________________________________________________________________
+📚 Curso Completo: Curso Completo de HTML                                                                                                  
+📌 Ubicación: CÚA, Estado Miranda                                                                                                                                                 
+🗓️ Año: 2025
+______________________________________________________________________________________________________________________________________________________________
 
 
-
-________________________________________________________________________________________________________________________________
-CURSO DE COMPLETO HTML
-________________________________________________________________________________________________________________________________
-
-Curso Completo de HTML Realizado por Danny Jimenez                                                                          
-
-
-Glosario del Curso de HTML
-____________________________________
+📋 Glosario del Curso de HTML
+_________________________________
 
 ✅ 1. Estructura Basica = LISTO                                                                                                                                                            
 ✅ 2. Estructura General = LISTO                                                                                                                                                                         
