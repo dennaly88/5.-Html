@@ -1,16 +1,18 @@
-5.- HTML
+________________________________________________________________________________________________________________________________
+CURSO DE COMPLETO HTML
+________________________________________________________________________________________________________________________________
 
 Curso Completo de HTML Realizado por Danny Jimenez                                                                          
 
 
 Glosario del Curso de HTML
+____________________________________
 
-
-✅ 1. Estructura Basica = LISTO                                                                                                                                                                                                                         
-✅ 2. Estructura General = LISTO                                                                                                                                                                                                                        
+✅ 1. Estructura Basica = LISTO                                                                                                                                                            
+✅ 2. Estructura General = LISTO                                                                                                                                                                         
 ✅ 3. Elementos = LISTO                                                                                                                                                              
 ✅ 4. Metadatos = LISTO                                                                                            
-✅ 5. Secciones = LISTO                                                                                                                                                                                         
+✅ 5. Secciones = LISTO                                                                                                                                                                                    
 ✅ 6. Contenido = LISTO                                                                                                                                                
 ✅ 7. Texto = LISTO                                                                                                                                                 
 ✅ 8. Multimedia = LISTO                                                                                                                
